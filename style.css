@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    color: rgb(4, 0, 255);
+    background-color: rgb(151, 255, 250);
+}
+img{
+    width: 500px;
+}
+.FNF{
+    float: left;
+    padding: 10px;
+}
+.AA{
+    list-style: none;
+    position: fixed;
+    font-size: 20px;
+}
